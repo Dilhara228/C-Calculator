@@ -1,0 +1,11 @@
+D:\Vb2019\Calculator\bin\Debug\Calculator.exe.config
+D:\Vb2019\Calculator\bin\Debug\Calculator.exe
+D:\Vb2019\Calculator\bin\Debug\Calculator.pdb
+D:\Vb2019\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Vb2019\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Vb2019\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Vb2019\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Vb2019\Calculator\obj\Debug\Calculator.exe
+D:\Vb2019\Calculator\obj\Debug\Calculator.pdb
+D:\Vb2019\Calculator\obj\Debug\Calculator.frmCalculator.resources
+D:\Vb2019\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
